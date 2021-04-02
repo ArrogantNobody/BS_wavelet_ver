@@ -1,0 +1,4 @@
+.vim/
+logs/
+*.h5
+**/__pycache__
